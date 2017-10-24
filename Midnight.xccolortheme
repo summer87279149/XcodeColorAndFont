@@ -15,11 +15,11 @@
 	<key>DVTConsoleDebuggerPromptTextFont</key>
 	<string>SFMono-Bold - 11.0</string>
 	<key>DVTConsoleExectuableInputTextColor</key>
-	<string>0.2 0.6 0.6 1</string>
+	<string>0.39825 0.269418 0.878097 1</string>
 	<key>DVTConsoleExectuableInputTextFont</key>
 	<string>SFMono-Regular - 11.0</string>
 	<key>DVTConsoleExectuableOutputTextColor</key>
-	<string>0.2 0.6 0.6 1</string>
+	<string>0.39825 0.269418 0.878097 1</string>
 	<key>DVTConsoleExectuableOutputTextFont</key>
 	<string>SFMono-Bold - 11.0</string>
 	<key>DVTConsoleTextBackgroundColor</key>
@@ -29,7 +29,7 @@
 	<key>DVTConsoleTextSelectionColor</key>
 	<string>0.409 0.39 0.302 1</string>
 	<key>DVTDebuggerInstructionPointerColor</key>
-	<string>0.420701 0.189216 0.346376 1</string>
+	<string>0.519396 0.189216 0.346376 1</string>
 	<key>DVTMarkupTextBackgroundColor</key>
 	<string>0.08 0.08 0.08 1</string>
 	<key>DVTMarkupTextBorderColor</key>
@@ -45,23 +45,23 @@
 	<key>DVTMarkupTextLinkColor</key>
 	<string>0.255 0.392 1 1</string>
 	<key>DVTMarkupTextLinkFont</key>
-	<string>.SFNSText-Regular - 10.0</string>
+	<string>.SFNSText - 10.0</string>
 	<key>DVTMarkupTextNormalColor</key>
 	<string>1 1 1 1</string>
 	<key>DVTMarkupTextNormalFont</key>
-	<string>.SFNSText-Regular - 10.0</string>
+	<string>.SFNSText - 10.0</string>
 	<key>DVTMarkupTextOtherHeadingColor</key>
 	<string>1 1 1 0.5</string>
 	<key>DVTMarkupTextOtherHeadingFont</key>
-	<string>.SFNSText-Regular - 14.0</string>
+	<string>.SFNSText - 14.0</string>
 	<key>DVTMarkupTextPrimaryHeadingColor</key>
 	<string>1 1 1 1</string>
 	<key>DVTMarkupTextPrimaryHeadingFont</key>
-	<string>.SFNSDisplay-Regular - 24.0</string>
+	<string>.SFNSDisplay - 24.0</string>
 	<key>DVTMarkupTextSecondaryHeadingColor</key>
 	<string>1 1 1 1</string>
 	<key>DVTMarkupTextSecondaryHeadingFont</key>
-	<string>.SFNSText-Regular - 18.0</string>
+	<string>.SFNSText - 18.0</string>
 	<key>DVTMarkupTextStrongColor</key>
 	<string>1 1 1 1</string>
 	<key>DVTMarkupTextStrongFont</key>
