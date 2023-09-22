@@ -25,7 +25,7 @@
 	<key>DVTConsoleTextBackgroundColor</key>
 	<string>1 0.988235 0.945098 1</string>
 	<key>DVTConsoleTextInsertionPointColor</key>
-	<string>1 1 1 1</string>
+	<string>0 0 0 1</string>
 	<key>DVTConsoleTextSelectionColor</key>
 	<string>0.501959 0.250944 0.0100335 1</string>
 	<key>DVTFontAndColorVersion</key>
@@ -83,13 +83,13 @@
 	<key>DVTScrollbarMarkerWarningColor</key>
 	<string>0.937255 0.717647 0.34902 1</string>
 	<key>DVTSourceTextBackground</key>
-	<string>0.857066 0.979674 0.984665 1</string>
+	<string>0.857833 0.977212 0.984908 1</string>
 	<key>DVTSourceTextBlockDimBackgroundColor</key>
 	<string>0.5 0.5 0.5 1</string>
 	<key>DVTSourceTextCurrentLineHighlightColor</key>
 	<string>0.686275 0.796078 0.67451 1</string>
 	<key>DVTSourceTextInsertionPointColor</key>
-	<string>1 1 1 1</string>
+	<string>0 0 0 1</string>
 	<key>DVTSourceTextInvisiblesColor</key>
 	<string>0.5 0.5 0.5 1</string>
 	<key>DVTSourceTextSelectionColor</key>
@@ -146,6 +146,16 @@
 		<string>0.2 0.2 0.2 1</string>
 		<key>xcode.syntax.preprocessor</key>
 		<string>0.896 0.488 0.284 1</string>
+		<key>xcode.syntax.regex</key>
+		<string>0.741176 0.215686 0.0705882 1</string>
+		<key>xcode.syntax.regex.capturename</key>
+		<string>0 0.569195 0.994762 1</string>
+		<key>xcode.syntax.regex.charname</key>
+		<string>0 0.728007 0.735002 1</string>
+		<key>xcode.syntax.regex.number</key>
+		<string>0.8 0 0.8 1</string>
+		<key>xcode.syntax.regex.other</key>
+		<string>0.2 0.2 0.2 1</string>
 		<key>xcode.syntax.string</key>
 		<string>0.741176 0.215686 0.0705882 1</string>
 		<key>xcode.syntax.url</key>
@@ -202,6 +212,16 @@
 		<key>xcode.syntax.plain</key>
 		<string>SFMono-Regular - 16.0</string>
 		<key>xcode.syntax.preprocessor</key>
+		<string>SFMono-Regular - 16.0</string>
+		<key>xcode.syntax.regex</key>
+		<string>SFMono-Regular - 16.0</string>
+		<key>xcode.syntax.regex.capturename</key>
+		<string>SFMono-Regular - 16.0</string>
+		<key>xcode.syntax.regex.charname</key>
+		<string>SFMono-Regular - 16.0</string>
+		<key>xcode.syntax.regex.number</key>
+		<string>SFMono-Regular - 16.0</string>
+		<key>xcode.syntax.regex.other</key>
 		<string>SFMono-Regular - 16.0</string>
 		<key>xcode.syntax.string</key>
 		<string>SFMono-Regular - 16.0</string>
